@@ -1,0 +1,18 @@
+[
+  {
+    "Host raw": "http://wmut.mainscgx02.com/",
+    "Name raw": "session",
+    "Path raw": "/",
+    "Content raw": "eyJyb2xlIjoiY2xpZW50Iiwic2Vlbl9ndWlkZSI6MCwidXNlcl9pZCI6MiwidXNlcm5hbWUiOiIxMjE1MjgxMTQwIn0.aiE37g.5i0z204GhyCY3QLHMQUe49x39zA",
+    "Expires": "At the end of the session",
+    "Expires raw": "0",
+    "Send for": "Any type of connection",
+    "Send for raw": "false",
+    "HTTP only raw": "true",
+    "SameSite raw": "no_restriction",
+    "This domain only": "Valid for host only",
+    "This domain only raw": "true",
+    "Store raw": "firefox-default",
+    "First Party Domain": ""
+  }
+]

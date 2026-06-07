@@ -1,0 +1,12 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: sqlite:///./panel.db
+      SECRET_KEY: dev-secret-change-in-production
+      CORS_ORIGINS: http://localhost:3000
+    command: sh -c "python seed.py && uvicorn app.main:app --host 0.0.0.0 --port 8000"

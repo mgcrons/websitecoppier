@@ -1,0 +1,34 @@
+{
+  "GET /dash/me": {
+    "display_name": "8521002891",
+    "has_2fa": false,
+    "id": 2,
+    "inbox_notify": 0,
+    "is_pro": true,
+    "plan_tier": "pro",
+    "pro_expires": "2026-06-19T11:28:39.812205",
+    "role": "client",
+    "seen_guide": 0,
+    "subscription_expires": "2026-06-19T11:28:39.812205",
+    "tg_bot_token": "8652758623:AAHrJiuOStN_NNYoDb-X1RqTUz-Z2xxz4Wg",
+    "tg_chat_id": "8521002891",
+    "username": "1215281140"
+  },
+  "GET /dash/tokens": [
+    {
+      "captured_at": "2026-05-28T20:57:23.525684",
+      "client_id": "27922004-5251-4030-b22d-91ecd9a37ea4",
+      "country": null,
+      "expires_in": 7723,
+      "id": 507,
+      "ip_address": null,
+      "last_refreshed": "2026-06-06T19:38:19.666753",
+      "mfa_roles": "",
+      "owner_id": 2,
+      "refresh_count": 236,
+      "status": "active",
+      "user_email": "BBallinger@NorthFork.k12.oh.us",
+      "user_name": "Ballinger,  Brett"
+    }
+  ]
+}
